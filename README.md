@@ -1,5 +1,4 @@
-###### *The files in this repo are a part of an online [tutorial](http://newcoder.io/networks/intro/) that I went through
-in order to learn about networks.*
+###### *The files in this repo are a part of an online [tutorial](http://newcoder.io/networks/intro/) that I went through in order to learn about networks.*
 
 ##### General Overview
 * The tutorial is a walkthrough on how to make an Internet Relay Chat bot (IRC) within the [twisted framework](https://twistedmatrix.com/trac/)
