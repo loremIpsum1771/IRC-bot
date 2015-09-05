@@ -1,0 +1,23 @@
+2015-07-04 00:32:55-0400 [-] Log opened.
+2015-07-04 00:32:55-0400 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgAttribution <--
+2015-07-04 00:32:55-0400 [-] connectionMade
+2015-07-04 00:32:55-0400 [-] Signed on
+2015-07-04 00:32:55-0400 [-] [tbb has joined #testchannel]
+2015-07-04 00:32:55-0400 [-] sent message to #testchannel, triggered by tester:
+		Nobody minds having what is too good for them. ~ Jane Austen
+2015-07-04 00:32:55-0400 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgNoTrigger <--
+2015-07-04 00:32:55-0400 [-] connectionMade
+2015-07-04 00:32:55-0400 [-] Signed on
+2015-07-04 00:32:55-0400 [-] [tbb has joined #testchannel]
+2015-07-04 00:32:55-0400 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgPrivateMessage <--
+2015-07-04 00:32:55-0400 [-] connectionMade
+2015-07-04 00:32:55-0400 [-] Signed on
+2015-07-04 00:32:55-0400 [-] [tbb has joined #testchannel]
+2015-07-04 00:32:55-0400 [-] sent message to tester, triggered by tester:
+		Nobody minds having what is too good for them. ~ Jane Austen
+2015-07-04 00:32:55-0400 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgWithTrigger <--
+2015-07-04 00:32:55-0400 [-] connectionMade
+2015-07-04 00:32:55-0400 [-] Signed on
+2015-07-04 00:32:55-0400 [-] [tbb has joined #testchannel]
+2015-07-04 00:32:55-0400 [-] sent message to #testchannel, triggered by tester:
+		Nobody minds having what is too good for them. ~ Jane Austen
